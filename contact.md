@@ -1,7 +1,11 @@
 ---
 title: Contact
 sections:
-  - content: |-
+  - actions:
+      - label: AGENDAR CONSULTA
+        url: ''
+      - label: AGENDAR CONSULTA 2
+    content: |-
       auhsiahsuoahsiahsOIAHSOHAOS
 
       ASHAUOhsoahsas
