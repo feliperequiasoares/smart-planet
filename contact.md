@@ -20,7 +20,7 @@ sections:
     section_id: contact
     title: Contact
     type: section_contact
-  - bg: gray
+  - bg: white
     faqitems:
       - answer: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
