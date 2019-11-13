@@ -1,6 +1,20 @@
 ---
 title: Home
 sections:
+  - bg: white
+    pricingplans:
+      - details: |-
+          AHAUSIHUAS
+
+          ASHUSHUIAS
+
+          aHSUIASHIUA
+        highlight: false
+        price: '2000'
+        title: Price 1
+    subtitle: Subtitulo
+    title: Titulo
+    type: section_pricing
   - actions:
       - label: Learn More
         url: /features
@@ -81,20 +95,6 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     type: section_posts
-  - bg: white
-    pricingplans:
-      - details: |-
-          AHAUSIHUAS
-
-          ASHUSHUIAS
-
-          aHSUIASHIUA
-        highlight: false
-        price: '2000'
-        title: Price 1
-    subtitle: Subtitulo
-    title: Titulo
-    type: section_pricing
 menus:
   main:
     title: Home
