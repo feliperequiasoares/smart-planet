@@ -31,7 +31,12 @@ sections:
       produtos digitais para startups e empresas.
     title: Construção
     type: section_features
-  - content: |-
+  - actions:
+      - label: Call to Action
+        url: '#'
+      - label: Call to Action
+        url: '#'
+    content: |-
       ### O seu lugar para
 
       # Viver o Boliche em Camobi
