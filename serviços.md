@@ -37,11 +37,11 @@ sections:
       - label: Call to Action
         url: '#'
     content: |-
-      ### O seu lugar para
+      #### O seu lugar para
 
       # Viver o Boliche em Camobi
 
-      ## Boliche & Bar
+      ### Boliche & Bar
     image: /images/feature2.png
     type: section_hero
 menus:
